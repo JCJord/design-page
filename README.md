@@ -3,5 +3,11 @@
 
 Simples layout de página 
 
+## Tecnologias utilizadas
+<li>HTML</li>
+<li>CSS3</li>
+<li>Javascript</li>
+
+
 ## URL
 https://jcjord.github.io/WebDesign/
